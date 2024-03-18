@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0-V201905.03.000.20191120/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202005.00.000.20200515/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202005.00.000.20200515/099_config.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.00.000.20200618/099_config.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.01.000.20200724/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.01.000.20200724/099_config.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.05.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.06.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.07.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.07.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.08.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.08.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.08.000/099_config.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.09.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.09.000/099_config.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.10.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.10.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.11.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.11.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.12.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.13.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.14.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.15.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.16.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.16.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.17.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.17.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.18.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.18.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.20.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.21.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.22.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.23.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.24.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.25.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.25.000/02_convert.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.26.000/01_ora_ddl.sql" charset="GBK" />
+    <file url="file://D:/Projects/Scripts/spsql/BAM6.0V202006.26.000/099_config.sql" charset="GBK" />
+  </component>
+</project>
