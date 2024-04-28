@@ -60,6 +60,24 @@
             <version>23.3.0.23.09</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>easyexcel</artifactId>
+            <version>3.3.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+        　　<groupId>org.slf4j</groupId>
+        　　<artifactId>slf4j-simple</artifactId>
+        　　<version>1.7.25</version>
+        　　<scope>compile</scope>
+        </dependency>
 
     </dependencies>
 </project>
